@@ -1,0 +1,11 @@
+body {
+	background-color : #a2f2f0;
+}
+input {
+	position: absolute;
+	left :200px;
+}
+#error {
+	color: red;
+	font-style: oblique;
+}

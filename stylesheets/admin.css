@@ -1,0 +1,21 @@
+tr
+{
+	padding : 20px;
+	margin: 20px;
+}
+body {
+	background-color: #ff99cc;
+    }
+    td {
+    	padding : 20px ;
+        margin: 20px;
+        }
+
+#error {
+	font-size: 20px;
+    color : red;
+}   
+#name {
+	font-size: 20px;
+	color : #21078c;
+}     

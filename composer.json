@@ -1,0 +1,10 @@
+{
+	"autoload" : {
+		"psr-0" : {
+			"path" : "include"
+		}
+	},
+	"require": {
+		"twilio/sdk": "^5.4"
+	}
+}
